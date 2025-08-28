@@ -21,12 +21,12 @@ The focus is on **problem-solving, APIs, automation, data prep, testing, and int
 4Week-Python-Study-Plan
 ├── main.py # Entry point to navigate all exercises
 ├── WK1/ # Week 1: Python Fundamentals & Clean Code
-│ ├── WK1_count_vowels_consonants.py
-│ ├── WK1_duplicated_elements.py
-│ ├── WK1_find_email_in_string.py
-│ ├── WK1_save_values_at_json.py
-│ ├── WK1_read_file_with_error_handling.py
-│ └── WK1_Chatbot.py
+│ ├── WK1_ex1_count_vowels_consonants.py
+│ ├── WK1_ex2_duplicated_elements.py
+│ ├── WK1_ex3_find_email_in_string.py
+│ ├── WK1_ex4_save_values_at_json.py
+│ ├── WK1_ex5_read_file_with_error_handling.py
+│ └── WK1_ex6_Chatbot.py
 ├── WK2/ # Week 2: APIs & Automation
 │ └── ... (API and automation exercises)
 ├── WK3/ # Week 3: GenAI & Data Prep
