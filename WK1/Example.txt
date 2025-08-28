@@ -1,0 +1,3 @@
+This is an example
+to use the function
+read_file_with_error_handling
